@@ -1,1 +1,2 @@
 # python-cryptography
+Anyone can build onto this freely. I'll get a main program interface written as soon as I can after Battleship, and I'll call each type of cipher as a function (example caesar()). Feel free to write a function for any kind of cipher. It should be able to encode and decode (or at least try to for some of the harder ciphers). It should also have it's own ability to read a text file input. Please mention if any modules are used that need to be downloaded.
